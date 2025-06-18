@@ -1,3 +1,8 @@
+![License](https://img.shields.io/github/license/shabarinathkv/vulnvoyager)
+![Issues](https://img.shields.io/github/issues/shabarinathkv/vulnvoyager)
+![Stars](https://img.shields.io/github/stars/shabarinathkv/vulnvoyager?style=social)
+![Forks](https://img.shields.io/github/forks/shabarinathkv/vulnvoyager?style=social)
+
 # 🚀 VulnVoyager
 
 **VulnVoyager** is a powerful, open-source CLI tool for scanning websites and uncovering common security issues.
