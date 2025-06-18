@@ -18,7 +18,7 @@
 ### 💻 Installation
 
 ```bash
-git clone https://github.com/yourusername/vulnvoyager.git
+git clone https://github.com/shabarinathkv/vulnvoyager.git
 cd vulnvoyager
 pip install -r requirements.txt
 ```
