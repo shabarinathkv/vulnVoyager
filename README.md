@@ -29,21 +29,14 @@ pip install -r requirements.txt
 python main.py https://example.com --depth 1
 ```
 
+> ⚠️ **Disclaimer:** VulnVoyager is intended for **educational and authorized testing only**.  
+> Unauthorized scanning of websites without permission is **strictly prohibited**.  
+> Use this tool responsibly. The author is **not responsible** for any misuse.
+
+
 ### 📦 Output
 
 Generates a `report_YYYYMMDD_HHMMSS.html` file with structured insights.
-
-### 🌐 DISCLAIMER:
-
-This tool is provided **for educational and ethical testing purposes only**.
-
-🚫 **You are solely responsible** for how you use this software.  
-❌ **Unauthorized scanning or testing of systems you do not own or have explicit permission to analyze is illegal.**
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
-
-Use wisely, ethically, and responsibly.
-
 
 ---
 
